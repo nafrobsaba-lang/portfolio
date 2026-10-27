@@ -96,7 +96,37 @@ My technical journey focuses on web development, computer networking, systems ad
 ### Operating Systems & Virtualization
 - Command-line tools, shell environments, and Linux system administration (Arch Linux, Kali Linux)
 - Virtualized environment testing and management using Oracle VirtualBox
+# 🤝 LET'S CONNECT
 
+I'm always open to discussing web development, cybersecurity challenges, software engineering, or potential project collaborations. Feel free to reach out to me!
+
+<div align="center">
+
+  <!-- Telegram Button Icon Waliin -->
+  <a href="https://t.me/allahmyhope" target="_blank">
+    <img src="https://img.shields.io/badge/Telegram-@allahmyhope-26A5E4?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram" />
+  </a>
+
+  <!-- GitHub Button Icon Waliin -->
+  <a href="https://github.com/nafrobsaba-lang" target="_blank">
+    <img src="https://img.shields.io/badge/GitHub-nafrobsaba--lang-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub Profile" />
+  </a>
+
+  <!-- Email Button Icon Waliin -->
+  <a href="mailto:nafrobsaba@gmail.com">
+    <img src="https://img.shields.io/badge/Email-nafrobsaba@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+  </a>
+
+<br/><br/>
+
+  <p>
+    👉 Telegram irra kallattiidhaan na qunnamuuf link kana tuqaa: 
+    <a href="https://t.me/allahmyhope"><b>@allahmyhope</b></a>
+  </p>
+
+### ✨ Build with purpose. Learn continuously. Solve problems thoughtfully.
+
+</div>
 ---
 
 # 🏗️ HOW I APPROACH SOFTWARE DEVELOPMENT
@@ -118,3 +148,6 @@ My technical journey focuses on web development, computer networking, systems ad
                  │
                  ▼
   Deploy & Maintain
+
+
+
