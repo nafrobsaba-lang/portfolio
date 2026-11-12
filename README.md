@@ -3,6 +3,12 @@
 # 👋 Hi, I'm Nafrob Husen (Nafi)
 
 ### 🚀 Full-Stack Developer | Computer Science Student
+<p align="center">
+  <a href="https://readme-typing-svg.demolab.com">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=36BCF7&center=true&vCenter=true&width=650&lines=Full-Stack+Web+Developer;Building+Practical+Software+Solutions;UI%2FUX+Design+Enthusiast;Exploring+AI%2FML+%26+Data+Science;Always+Learning%2C+Building+%26+Growing" alt="Typing SVG" />
+  </a>
+</p>
+
 ### 🌐 Networking Enthusiast | 🐧 Linux & Cybersecurity Learner
 
 **Building modern web applications • Connecting front-end & back-end • Solving real-world problems**
